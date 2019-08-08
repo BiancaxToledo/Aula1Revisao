@@ -1,6 +1,6 @@
-let messege= "hallo wolrd";
-console.log(messege)
+let numero:number=5;
+numero="5"
+console.log ("Quantidade é " + numero);
 
-//let message: string;
-//message = "hallo world";
-//console.log(message);
+numero=numero + 1
+console.log ("O novo numero é " + numero);

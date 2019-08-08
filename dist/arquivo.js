@@ -1,5 +1,5 @@
-var messege = "hallo wolrd";
-console.log(messege);
-//let message: string;
-//message = "hallo world";
-//console.log(message);
+var numero = 5;
+numero = "5";
+console.log("Quantidade é " + numero);
+numero = numero + 1;
+console.log("O novo numero é " + numero);
